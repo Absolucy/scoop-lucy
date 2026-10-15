@@ -10,7 +10,8 @@
     "bin": "bin\\byond.exe",
     "notes": "This relies on the normal BYOND package, to avoid conflicting persistent data, as you cannot have separate BYOND userdirs for stable and beta versions.",
     "suggest": {
-        "vcredist": "extras/vcredist"
+        "vcredist": "extras/vcredist",
+        "webview2": "arch3rPro_PST-Bucket/webview2"
     },
     "shortcuts": [
         [

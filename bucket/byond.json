@@ -9,7 +9,8 @@
     "extract_dir": "byond",
     "bin": "bin\\byond.exe",
     "suggest": {
-        "vcredist": "extras/vcredist"
+        "vcredist": "extras/vcredist",
+        "webview2": "arch3rPro_PST-Bucket/webview2"
     },
     "shortcuts": [
         [
